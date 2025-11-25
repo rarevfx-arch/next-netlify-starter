@@ -4,7 +4,15 @@ import Footer from '@components/Footer'
 
 export default function Home() {
   return (
-    <div className="container">
+    <div 
+        className="container"
+        style={{
+            backgroundImage: "url('/images/background.jpg')",
+            backgroundSize: "cover",
+            backgroundPosition: "center",
+            minHeight: "100vh"
+          }}
+    >
       <Head>
         <title>aDNS First-Call 2025!</title>
         <link rel="icon" href="/DTE.DE-944bd2b4_1.ico" />
