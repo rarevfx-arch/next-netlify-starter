@@ -6,14 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>aDNS First-Call 2025!</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="03. Dezember 2025" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Diese Domain liegt auf dem aDNS, der Zukunft des autoritativen DNS der Telekom!
         </p>
       </main>
 
