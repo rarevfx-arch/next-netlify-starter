@@ -7,7 +7,7 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>aDNS First-Call 2025!</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/DTE.DE-944bd2b4_1.ico" />
       </Head>
 
       <main>
