@@ -7,7 +7,7 @@ export default function Home() {
     <div 
         className="container"
         style={{
-            color: "white"
+            color: "white",
             backgroundImage: "url('/111001795.png')",
             backgroundSize: "cover",
             backgroundPosition: "center",
