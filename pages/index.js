@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="aDNS First-Call 2025!" />
+        <Header title="<span style={{ color: 'magenta' }}>aDNS</span> First-Call 2025!" />
         <p className="description">
-          Diese Domain liegt auf dem aDNS, der Zukunft des autoritativen DNS der Telekom!
+          Diese Domain liegt auf dem <span style={{ color: 'magenta' }}>aDNS</span>, der Zukunft des autoritativen DNS der Telekom!
         </p>
       </main>
 
