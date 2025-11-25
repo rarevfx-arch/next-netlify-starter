@@ -7,7 +7,7 @@ export default function Home() {
     <div 
         className="container"
         style={{
-            backgroundImage: "url('/images/background.jpg')",
+            backgroundImage: "url('/111001795.png')",
             backgroundSize: "cover",
             backgroundPosition: "center",
             minHeight: "100vh"
@@ -19,7 +19,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="<span style={{ color: 'magenta' }}>aDNS</span> First-Call 2025!" />
+        <Header title="aDNS First-Call 2025!" />
         <p className="description">
           Diese Domain liegt auf dem <span style={{ color: 'magenta' }}>aDNS</span>, der Zukunft des autoritativen DNS der Telekom!
         </p>
