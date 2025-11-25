@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="03. Dezember 2025" />
+        <Header title="aDNS First-Call 2025!" />
         <p className="description">
           Diese Domain liegt auf dem aDNS, der Zukunft des autoritativen DNS der Telekom!
         </p>
