@@ -7,6 +7,7 @@ export default function Home() {
     <div 
         className="container"
         style={{
+            color: "white"
             backgroundImage: "url('/111001795.png')",
             backgroundSize: "cover",
             backgroundPosition: "center",
@@ -21,7 +22,7 @@ export default function Home() {
       <main>
         <Header title="aDNS First-Call 2025!" />
         <p className="description">
-          Diese Domain liegt auf dem <span style={{ color: 'magenta' }}>aDNS</span>, der Zukunft des autoritativen DNS der Telekom!
+          Diese Domain liegt auf dem aDNS, der Zukunft des autoritativen DNS der Telekom!
         </p>
       </main>
 
